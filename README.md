@@ -6,6 +6,6 @@ Sometimes you just can't find the best dual monitor wallpaper for your desktop. 
 
 ![maincapture](https://user-images.githubusercontent.com/18078763/32694847-08bc4d04-c743-11e7-846e-3baab6479836.PNG)
 
-## Usage
+## Usage & Installation
 
 This simple program does not require any type of installation apart from a python3 environment. Just open the program, select your images and create that wallpaper.
